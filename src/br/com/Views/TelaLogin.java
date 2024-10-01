@@ -20,7 +20,7 @@ public class TelaLogin extends javax.swing.JFrame {
      * Creates new form TelaLogin
      */
     public void logar() {
-String sql = "select * from tb_usuarios where login = ? and senha = ?";
+String sql = "select * from tbusuarios where login = ? and senha = ?";
 try{
 pst = conexao.prepareStatement(sql);
 pst.setString(1, txtUsuario.getText());

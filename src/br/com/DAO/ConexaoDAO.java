@@ -19,6 +19,7 @@ public class ConexaoDAO {
         String password = "root";
         
         try {
+            //prepara a conexão com o banco
             Class.forName(driver);
             conexao = DriverManager.getConnection(url,user, password);
             return conexao;
