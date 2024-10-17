@@ -4,7 +4,7 @@ Projeto de Sistema em Java com Interface Gráfica e Banco de Dados Local
 
 Visão Geral
 
-Back end: Java
+Back end: Java  (com bibliotecas Swing ou JavaFX para interface gráfica).
 
 Banco de Dados: MySQL
 
