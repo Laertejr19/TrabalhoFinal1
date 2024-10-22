@@ -4,11 +4,11 @@
 Este projeto é um sistema em Java que fornece uma interface gráfica para gerenciamento de usuários e clientes. O sistema inclui funcionalidades como tela de login, cadastro de usuários, cadastro de clientes e uma agenda para registro de compromissos.
 
 ## Sumário
-- [Descrição do Projeto](#descrição-do-projeto-)
-- [Arquitetura do Sistema](#arquitetura-do-sistema-)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Arquitetura do Sistema](#arquitetura-do-sistema)
 - [Diagrama de Arquitetura](#diagrama-de-arquitetura)
-- [Instruções de Execução](#instruções-de-execução-)
-- [Considerações Finais](#considerações-finais-)
+- [Instruções de Execução](#instruções-de-execução)
+- [Considerações Finais](#considerações-finais)
 
 ## Arquitetura do Sistema 🏗️
 A arquitetura do sistema é composta por três camadas principais:
