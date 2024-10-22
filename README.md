@@ -7,8 +7,8 @@ Este projeto é um sistema em Java que fornece uma interface gráfica para geren
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Arquitetura do Sistema](#arquitetura-do-sistema)
 - [Diagrama de Arquitetura](#diagrama-de-arquitetura)
-- [Instruções de Execução](#instruções-de-execução)
-- [Considerações Finais](#considerações-finais)
+- [Instruções de Execução](#instruções-de-execução-%EF%B8%8F)
+- [Considerações Finais](#considerações-finais-)
 
 ## Arquitetura do Sistema 🏗️
 A arquitetura do sistema é composta por três camadas principais:
